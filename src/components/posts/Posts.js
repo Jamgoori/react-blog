@@ -3,7 +3,7 @@ import "./posts.css";
 import Category from '../category/Category'
 import Author from '../author/Author'
 import Post from '../post/Post'
-const Posts = ({item}) => {
+const Posts = ({item} ) => {
   console.log(item?.thumbnail)
   return (
     <div class="max-width">
@@ -12,7 +12,7 @@ const Posts = ({item}) => {
         <li>
           <a href="post-view" class="post">
             <article>
-              <img src="item?.thumbnail" alt="" />
+              <img src={item?.thumbnail} alt="" />
             
               <div class="contents-wrap">
     <Category/>

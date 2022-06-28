@@ -22,9 +22,7 @@ function Homepage() {
     <div>
     <Header />
     <Banner />
-    {posts.map((item)=> (
-<Main item={item}/>
-    ))}
+    <Main posts={posts}/>
     <Footer />
     </div>
   );

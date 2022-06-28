@@ -3,12 +3,17 @@ import './main.css'
 import '../basic/global.css'
 import Posts from '../posts/Posts'
 import About from '../about/About'
-const main = () => {
+const main = ({posts}) => {
   return (
     <main>
       <div className='max-width'>
-        <Posts/>
-      <About/>
+    
+    {posts.map((item)=> (
+      <Posts item={item}/> 
+    ))}
+        
+        <About/>
+
       </div>
         </main>
   )
