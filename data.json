@@ -7,11 +7,11 @@
 	"posts": [
 		{
 			"id": 1,
-			"thumbnail": "https://post-phinf.pstatic.net/MjAxOTEyMjBfMTQ4/MDAxNTc2ODI4OTgwOTQx.fP4JVgMR2biSvWYsGJgFBbUdZ5iMKmtY85F3a7EqloIg.u5Dy3RvZdQnBjobCrni6JQZ0FNhuT6jmt1z3tKryo-og.JPEG/GettyImages-1159587265.jpg?type=w1200",
+			"thumbnail": "/assets/post-img1.jpg",
 			"title": "Dipisicing elit. Inventore illum nostrum perferendis.",
 			"mainBg": "https://t1.daumcdn.net/cfile/tistory/9982424C5F56648032",
 			"category": ["Life", "style"],
-			"profileImg": "/assets/profile.jpg",
+			"profileImg": "../assets/profile.jpg",
 			"contents": [
 				{
 					"type": "p",
@@ -40,10 +40,6 @@
 				{
 					"type": "p",
 					"text": "Voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel."
-				},
-				{
-					"type": "p",
-					"text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore illum nostrum perferendis voluptas, voluptate soluta corrupti dolore quidem. Placeat, eaque! Exercitationem est facilis dolor quas odio cum incidunt repudiandae vel."
 				},
 				{
 					"type": "img",
